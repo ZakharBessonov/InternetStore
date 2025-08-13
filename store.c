@@ -2,7 +2,7 @@
 #include <stdio.h>
 #include <stdbool.h>
 #define ARTICHOKE 2.15
-#define BEET 1.15
+#define BEET 1.25
 #define CARROT 1.19
 #define DISCONT 0.05
 #define LIMITPRICE 100
